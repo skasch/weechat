@@ -7,7 +7,7 @@
 FROM 32bit/ubuntu:14.04
 
 # Set the file maintainer (your name - the file's author)
-MAINTAINER Maintaner skasch
+MAINTAINER Maintainer skasch
 
 # set environment
 ENV TERM screen-256color
